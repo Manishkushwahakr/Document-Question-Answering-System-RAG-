@@ -6,4 +6,3 @@ faiss-cpu
 pypdf
 langchain_text_splitters
 sentence-transformers
-langchain langchain-community
