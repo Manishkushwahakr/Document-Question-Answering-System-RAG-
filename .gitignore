@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PDF files or data directories (if you don't want to upload your PDFs)
+*.pdf
+data/
+
+# Environment variables / keys
+.env
